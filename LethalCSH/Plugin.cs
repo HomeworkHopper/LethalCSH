@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LethalCSH
 {
-    public class Class1
+    public class LethalCSHEntry
     {
     }
 }
